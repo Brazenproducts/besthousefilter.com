@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://besthousefilter.com/sitemap.xml
