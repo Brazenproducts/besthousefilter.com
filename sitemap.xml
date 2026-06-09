@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://besthousefilter.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://besthousefilter.com/best-best-house-air-filters.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://besthousefilter.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://besthousefilter.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://besthousefilter.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://besthousefilter.com/housefilter-trends-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-buyers-handbook-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://besthousefilter.com/smart-housefilter-shopping-2026.html</loc><lastmod>2026-05-18</lastmod></url>
-  <url><loc>https://besthousefilter.com/best-housefilter-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://besthousefilter.com/what-we-look-for-housefilter-2026.html</loc><lastmod>2026-05-21</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-compared-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-guide-2026.html</loc><lastmod>2026-05-23</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-worth-the-upgrade-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-practical-guide-2026.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-what-wed-buy-2026.html</loc><lastmod>2026-05-30</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-tested-ranked-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://besthousefilter.com/how-to-pick-housefilter-2026.html</loc><lastmod>2026-06-03</lastmod></url>
-  <url><loc>https://besthousefilter.com/no-bs-housefilter-guide-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://besthousefilter.com/best-housefilter-without-overpaying.html</loc><lastmod>2026-06-06</lastmod></url>
-  <url><loc>https://besthousefilter.com/housefilter-quality-vs-marketing.html</loc><lastmod>2026-06-07</lastmod></url>
+  <url>
+    <loc>https://besthousefilter.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
